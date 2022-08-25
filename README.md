@@ -4,7 +4,7 @@
 - Now, I can intuitively write HTML for a particular section of the web page at a time rather than writing code for a small part at a time.
 - Variations of black and red color usage at proper places helped me design web pages beautifully.
 - It took nearly three and half hours to complete this project.
-
+- Website is mobile responsive.
 - Below image shows the preview of the project:
 
 ![Project-15 Preview](./Project-15.png)
